@@ -3,8 +3,8 @@
 ## I'm a Software engineering student
 
 - 🌱 I’m a fullstack web developper,currently learning Devops
-- 🥅 I’m looking to work on different projects and find intenships' opportunities
-- 📫 Let's work together: ncibnawres04@gmailcom
+- 🥅 I’m looking to work on different projects and find working student job opportunities
+- 📫 Let's work together: ncibnawres04@gmail.com
 
 ### Connect with me:
 
